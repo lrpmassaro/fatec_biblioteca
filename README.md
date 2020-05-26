@@ -1,1 +1,1 @@
-Sistema de biblioteca desenvolvido em java desenvolvido na graduação.
+Sistema de biblioteca desenvolvido em java na graduação.
